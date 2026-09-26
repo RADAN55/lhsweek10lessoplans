@@ -1,4 +1,3 @@
-# Week 10 Student Workbook (with photos)
+# Week 10 Student Workbook
 
-Upload this `week10` folder to your GitHub Pages repo. Single self-contained file: index.html.
-Live at https://radan55.github.io/week10/
+Upload this `week10` folder to your GitHub Pages repo (one file: index.html). Videos load from YouTube; news links open the original sources.
